@@ -21,8 +21,8 @@ Welcome to my GitHub! I'm a passionate front-end developer in the making who lov
 - UI design improvements and optimization
 
 📫 How to reach me:
-- Email: mhusnul.dev@gmail.com *(ganti sesuai kebutuhan)*
-- LinkedIn: [linkedin.com/in/mhusnul](https://linkedin.com/in/mhusnul) *(opsional)*
+- Email: muhamadhusnul95@gmail.com
+- LinkedIn: https://www.linkedin.com/in/m-husnul-maad/
 
 😄 Pronouns: 
 He/Him
