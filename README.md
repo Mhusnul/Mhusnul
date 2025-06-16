@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate front-end developer in the making who lov
 
 ---
 
-### 👀 I’m interested in:
+👀 I’m interested in:
 - Front-End Web Development (React, Tailwind CSS)
 - UI/UX Design
 - REST API integration
@@ -23,9 +23,6 @@ Welcome to my GitHub! I'm a passionate front-end developer in the making who lov
 📫 How to reach me:
 - Email: muhamadhusnul95@gmail.com
 - LinkedIn: https://www.linkedin.com/in/m-husnul-maad/
-
-😄 Pronouns: 
-He/Him
 
 ⚡ Fun fact:
 I enjoy turning complex UI designs into elegant code, and I believe learning by building is the best way to grow as a developer 🚀
