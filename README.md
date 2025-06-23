@@ -2,7 +2,7 @@
 
 ## 🚀 Frontend Developer | UI/UX Enthusiast | Code Craftsman
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Frontend+Developer+in+the+Making;Building+Clean+%26+Responsive+UIs;React+%26+Tailwind+CSS+Enthusiast;Learning+Full-Stack+Development)](https://git.io/typing-svg)
 
@@ -181,7 +181,7 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 
 ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Snake animation](https://github.com/Mhusnul/Mhusnul/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mhusnul/Mhusnul/output/snake.svg)
 
 </div>
 
