@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Muhamad Husnul Maad!
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 🚀 Frontend Developer | UI/UX Enthusiast | Code Craftsman
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Frontend+Developer+in+the+Making;Building+Clean+%26+Responsive+UIs;React+%26+Tailwind+CSS+Enthusiast;Learning+Full-Stack+Development)](https://git.io/typing-svg)
 
@@ -15,9 +15,15 @@ const mhusnul = {
   name: "Muhamad Husnul Maad",
   role: "Frontend Developer",
   location: "Indonesia 🇮🇩",
-  languages: ["JavaScript", "HTML", "CSS", "Java"],
-  frameworks: ["React.js", "Express.js", "Tailwind CSS"],
-  databases: ["MongoDB"],
+  languages: ["JavaScript", "HTML", "CSS"],
+  frameworks: [
+    "React.js",
+    "Next.Js",
+    "Express.js",
+    "Tailwind CSS",
+    "Bootstrap",
+  ],
+  databases: ["MySql", "MongoDB"],
   currentFocus: "Building responsive web applications",
   funFact: "I turn complex UI designs into elegant code! 🎨→💻",
 };
@@ -93,8 +99,8 @@ const mhusnul = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mhusnul&repo=react-admin-dashboard&theme=tokyonight)](https://github.com/Mhusnul/react-admin-dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mhusnul&repo=blog-app-mern&theme=tokyonight)](https://github.com/Mhusnul/blog-app-mern)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mhusnul&repo=react-admin-dashboard&theme=tokyonight)](https://github.com/Mhusnul/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mhusnul&repo=blog-app-mern&theme=tokyonight)](https://github.com/Mhusnul/store)
 
 </div>
 
