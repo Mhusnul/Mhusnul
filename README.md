@@ -179,9 +179,9 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🌟 "Code is like humor. When you have to explain it, it's bad."
 
-![Snake animation](https://raw.githubusercontent.com/Mhusnul/Mhusnul/output/snake.svg)
+![Snake animation](https://github.com/Mhusnul/Mhusnul/blob/main/.github/workflows/snake.yml)
 
 </div>
 
