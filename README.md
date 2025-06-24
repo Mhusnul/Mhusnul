@@ -85,16 +85,6 @@ const mhusnul = {
 
 ---
 
-### 🎯 What I'm Working On
-
-- 🔭 **Currently building:** Admin Dashboard with React & Tailwind CSS
-- 🌱 **Learning:** Express.js, MongoDB, and Full-Stack Development
-- 👯 **Looking to collaborate on:** Open-source frontend projects
-- 🤝 **Seeking help with:** Advanced React patterns and backend optimization
-- 💬 **Ask me about:** React.js, Tailwind CSS, Frontend Development
-
----
-
 ### 🌟 Featured Projects
 
 <div align="center">
@@ -140,20 +130,6 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-### 🎨 Skills & Interests
-
-<div align="center">
-
-|                                               Frontend Development                                               |                                                   UI/UX Design                                                    |                                              Learning Path                                              |
-| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
-|        ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)         |         ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)         | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-|  ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  |   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)    | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Responsive Design](https://img.shields.io/badge/-Responsive-00D8FF?style=flat-square&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
-
-</div>
-
----
-
 ### 📫 Let's Connect!
 
 <div align="center">
@@ -162,26 +138,6 @@ Other        17 mins         ░░░░░░░░░░░░░░░░░
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadhusnul95@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mhusnul)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mhusnul.github.io)
-
-</div>
-
----
-
-### ⚡ Fun Facts
-
-- 🎯 I believe "learning by building" is the best way to grow as a developer
-- 🚀 I enjoy turning complex UI designs into elegant, clean code
-- ☕ Coffee + Code = Perfect Combination
-- 🌱 Always excited to learn new technologies and frameworks
-- 🤝 Open to collaboration on interesting projects
-
----
-
-<div align="center">
-
-### 🌟 "Code is like humor. When you have to explain it, it's bad."
-
-![Snake animation](https://github.com/Mhusnul/Mhusnul/blob/main/.github/workflows/snake.yml)
 
 </div>
 
